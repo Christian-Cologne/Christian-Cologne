@@ -4,7 +4,7 @@
 
 <h2> 📄 Certification</h2>
 
-- [CompTia Security+](https://github.com/user-attachments/assets/949cf228-5475-4969-b1bc-25f1c3ad4046)
+- [CompTIA Security+](https://github.com/user-attachments/assets/949cf228-5475-4969-b1bc-25f1c3ad4046)
 
 
 <h2> 🤳 Connect with me:</h2>
